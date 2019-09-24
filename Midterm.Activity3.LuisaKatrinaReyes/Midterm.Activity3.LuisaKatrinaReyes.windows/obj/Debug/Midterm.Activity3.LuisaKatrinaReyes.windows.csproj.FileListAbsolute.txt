@@ -1,0 +1,15 @@
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\bin\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.exe.config
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\bin\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.exe
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\bin\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.pdb
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.csprojAssemblyReference.cache
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\MainWindow.g.cs
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\App.g.cs
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows_MarkupCompile.cache
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows_MarkupCompile.lref
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\MainWindow.baml
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.g.resources
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.Properties.Resources.resources
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.csproj.GenerateResource.cache
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.csproj.CoreCompileInputs.cache
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.exe
+\\COMLABPC7-PC\Users\COMLABPC7\source\repos\Midterm.Activity3.LuisaKatrinaReyes\Midterm.Activity3.LuisaKatrinaReyes.windows\obj\Debug\Midterm.Activity3.LuisaKatrinaReyes.windows.pdb
